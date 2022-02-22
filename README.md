@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Yerman 👋👨🏾‍💻
+![githubpage](https://user-images.githubusercontent.com/85423020/155056015-37cc16b5-bb24-4348-b276-db1e2f3189e8.png)
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, HTML, CSS],
+  tools: [React, Redux, Node, Express, PostgreSQL, AWS Amazon],
+}
+```
 
 <!--
 **YermanMerel/YermanMerel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
