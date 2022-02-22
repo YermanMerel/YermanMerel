@@ -8,6 +8,10 @@ const thai = {
 }
 ```
 
+
+You can find me 🌐: 
+- [Twitter](https://twitter.com/yerman89073203)
+- [LinkedIn](https://www.linkedin.com/in/yerman-merel-33b7471b5/)
 <!--
 **YermanMerel/YermanMerel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
