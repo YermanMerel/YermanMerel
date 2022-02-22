@@ -1,8 +1,8 @@
 ### Hi, I'm Yerman 👋👨🏾‍💻
 ![githubpage](https://user-images.githubusercontent.com/85423020/155056015-37cc16b5-bb24-4348-b276-db1e2f3189e8.png)
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
+const yermanmerel = {
+  pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
   tools: [React, Redux, Node, Express, PostgreSQL, AWS Amazon],
 }
